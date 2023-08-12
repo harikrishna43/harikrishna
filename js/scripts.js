@@ -199,9 +199,10 @@ $(document).ready(function(){
         var no=$('#no').val();
         var videoId=$('#VideoId').val();
         var htmlDiv='<div class="col-3"><iframe width="100%" height="260" src="https://www.youtube.com/embed/'+videoId+'?feature=oembed&autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" title="Umbraco 12: Google OAuth 2.0 Integration"></iframe></div>'
+        $('.frames').empty()
         for(var i=0;i<no;i++)
         {
-            $('.frames').empty()
+            
             $('.frames').append(htmlDiv);
         }
 
