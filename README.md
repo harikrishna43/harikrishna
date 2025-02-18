@@ -1,6 +1,6 @@
 ### Hi there, I'm [Harikrishna][website] 👋
 
-I have been working in web development since 1996. I am well known within the [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) community, having been involved with the project since 2007, and released many open-source community plugins and packages. 
+I have been working in web development since 2016. I am well known within the [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) community, having been involved with the project since 2014, and released many open-source community plugins and packages. 
 
 ### Connect with me:
 
